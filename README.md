@@ -3,10 +3,10 @@ Hello.
 I like html/js.
 
 Current Projects
-- Nova
+- BoltProxy
 
 Currently Unusable/Uncompleted Projects
 - Trash Royale
 
 Archived Projects
-- Nothing yet :)
+- Nova
