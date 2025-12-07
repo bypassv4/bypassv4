@@ -3,10 +3,11 @@ Hello.
 I like html/js.
 
 Current Projects
-- BoltProxy
+- BoltBrowser
+- Atlas (not open source) :(
 
 Currently Unusable/Uncompleted Projects
-- Trash Royale
 
 Archived Projects
 - Nova
+- BoltProxy (BoltBrowser without using scramjet.)
