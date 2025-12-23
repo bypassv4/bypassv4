@@ -3,8 +3,6 @@ Hello.
 I like html/js.
 
 Current Projects
-- BoltBrowser
-- Atlas (not open source) :(
 
 Currently Unusable/Uncompleted Projects
 
